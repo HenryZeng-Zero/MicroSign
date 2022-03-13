@@ -18,13 +18,6 @@
 * 点击 **导入**，然后点击 **导入 URL**
 * 粘贴 **https://github.com/henryzeng-zero/microsign** 并点击导入
 
-## 积木块预览
-
-此图像显示主分支中最后一次提交的块代码。
-此图像可能需要几分钟才能刷新。
-
-![块的渲染视图](https://github.com/henryzeng-zero/microsign/raw/master/.github/makecode/blocks.png)
-
 #### 元数据（用于搜索、渲染）
 
 * for PXT/microbit
